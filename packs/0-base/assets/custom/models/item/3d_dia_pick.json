@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "custom:item/3d_dia_pick",
-		"particle": "custom:item/3d_dia_pick"
+		"1": "3d_dia_pick",
+		"particle": "3d_dia_pick"
 	},
 	"elements": [
 		{
@@ -384,7 +384,8 @@
 			"translation": [0, 7, 7.75]
 		},
 		"gui": {
-			"rotation": [90, 0, 0]
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, 80]
 		},
 		"head": {
 			"rotation": [-180, 0, 0]
