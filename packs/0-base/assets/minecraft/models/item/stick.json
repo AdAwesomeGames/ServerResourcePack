@@ -10,6 +10,7 @@
 	{ "predicate": {"custom_model_data": 4}, "model": "custom:item/magma_block"},
 	{ "predicate": {"custom_model_data": 5}, "model": "custom:item/andesite"},
 	{ "predicate": {"custom_model_data": 6}, "model": "custom:item/granite"},
-	{ "predicate": {"custom_model_data": 7}, "model": "custom:item/diorite"}
+	{ "predicate": {"custom_model_data": 7}, "model": "custom:item/diorite"},
+	{ "predicate": {"custom_model_data": 8}, "model": "custom:item/sand"}
   ]
 }
