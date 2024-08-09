@@ -1,1 +1,1 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"custom:item/ancient_debris"}}
+{"parent":"minecraft:item/generated","textures":{"layer0":"custom:blocks/ancient_debris"}}
