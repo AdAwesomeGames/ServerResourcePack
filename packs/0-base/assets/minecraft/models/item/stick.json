@@ -15,6 +15,8 @@
 	{ "predicate": {"custom_model_data": 9}, "model": "custom:item/stone"},
 	{ "predicate": {"custom_model_data": 10}, "model": "custom:item/cobblestone"},
 	{ "predicate": {"custom_model_data": 11}, "model": "custom:item/grass_block"},
-	{ "predicate": {"custom_model_data": 12}, "model": "custom:item/dirt"}
+	{ "predicate": {"custom_model_data": 12}, "model": "custom:item/dirt"},
+	{ "predicate": {"custom_model_data": 13}, "model": "custom:item/stone_bricks"},
+	{ "predicate": {"custom_model_data": 14}, "model": "custom:item/stone_brick_slab"}
   ]
 }
