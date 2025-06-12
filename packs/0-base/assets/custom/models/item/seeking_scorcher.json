@@ -1,1 +1,40 @@
-{"parent":"minecraft:item/handheld_ad","textures":{"layer0":"custom:item/seeking_scorcher"}}
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:builtin/generated",
+	"textures": {
+		"layer0": "custom:item/seeking_scorcher"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 40],
+			"translation": [0, 3.75, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, -40],
+			"translation": [0, 3.75, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [162.75, 74, -146],
+			"translation": [-2, 6.5, 3.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [138, -91, 106],
+			"translation": [-2.5, 6.5, 3.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"gui": {
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"head": {
+			"rotation": [0, 90, -70],
+			"translation": [0, 9.25, 2]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

@@ -1,1 +1,40 @@
-{"parent":"minecraft:item/handheld_ad","textures":{"layer0":"custom:item/exoblade"}}
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:builtin/generated",
+	"textures": {
+		"layer0": "custom:item/exoblade"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 40],
+			"translation": [0, 6.5, 3.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, -40],
+			"translation": [0, 6.5, 3.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [162.75, 74, -140],
+			"translation": [-1.25, 6.25, 3.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [162.75, -90, 140],
+			"translation": [-1.25, 6.25, 3.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"gui": {
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"head": {
+			"rotation": [-180, -90, 29.5],
+			"translation": [0, 12, 0]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}
